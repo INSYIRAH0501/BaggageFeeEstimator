@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Baggage Fee Estimator</string>
+    <string name="hint_weight">Baggage weight (kg)</string>
+    <string name="hint_rate">Excess baggage weight in kg (RM)</string>
+    <string name="economy">Economy</string>
+    <string name="business">Business</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="error_empty">Please fill this.</string>
+</resources>
